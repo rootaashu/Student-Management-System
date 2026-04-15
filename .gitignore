@@ -1,0 +1,13 @@
+# Compiled files
+main
+*.out
+*.o
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+
+# Editor files
+*.swp
